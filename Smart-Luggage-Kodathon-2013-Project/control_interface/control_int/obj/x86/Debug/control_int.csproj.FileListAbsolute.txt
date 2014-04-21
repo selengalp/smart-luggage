@@ -1,0 +1,9 @@
+C:\Users\Metin\AppData\Local\Temporary Projects\control_int\bin\Debug\control_int.exe
+C:\Users\Metin\AppData\Local\Temporary Projects\control_int\bin\Debug\control_int.pdb
+C:\Users\Metin\AppData\Local\Temporary Projects\control_int\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Metin\AppData\Local\Temporary Projects\control_int\obj\x86\Debug\control_int.Form1.resources
+C:\Users\Metin\AppData\Local\Temporary Projects\control_int\obj\x86\Debug\control_int.Properties.Resources.resources
+C:\Users\Metin\AppData\Local\Temporary Projects\control_int\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Metin\AppData\Local\Temporary Projects\control_int\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Metin\AppData\Local\Temporary Projects\control_int\obj\x86\Debug\control_int.exe
+C:\Users\Metin\AppData\Local\Temporary Projects\control_int\obj\x86\Debug\control_int.pdb
